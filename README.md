@@ -5,12 +5,13 @@
 ---
 
 ![Desktop](./assets/Desktop.png)
+
 ---
 
 <div align="center">
     <h1>Welcome to my dotfiles</h1>
 </div>
----
+
 <image align="right" width="450px" src="./assets/neofetch.png"/>
 
 **My system setup**:
