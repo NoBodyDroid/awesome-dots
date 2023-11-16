@@ -2,14 +2,16 @@
     <h1>My Files</h1>
 </div>
 ---
-![Desktop](./assets/desktop.png)
+
+**[Desktop](./assets/desktop .png)**
+
 ---
 
 <div align="center">
     <h1>Welcome to my dotfiles</h1>
 </div>
 ---
-<image align="right" width="450px" src="assets/neofetch.png"/>
+<image align="right" width="450px" src="./assets/neofetch.png"/>
 
 **My system setup**:
 
