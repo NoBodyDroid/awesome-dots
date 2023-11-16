@@ -4,8 +4,7 @@
 
 ---
 
-**[Desktop](./assets/Desktop .png)**
-
+![Desktop](./assets/Desktop.png)
 ---
 
 <div align="center">
