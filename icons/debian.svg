@@ -2,9 +2,9 @@
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 
 <svg
-   width="800px"
-   height="800px"
-   viewBox="-16 0 256 256"
+   width="712.95294"
+   height="793.7652"
+   viewBox="-16 0 228.14494 254.00486"
    version="1.1"
    preserveAspectRatio="xMidYMid"
    id="svg12"
@@ -14,10 +14,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs16" />
   <sodipodi:namedview
-     id="namedview14"
+     id="namedview10"
      pagecolor="#ffffff"
      bordercolor="#999999"
      borderopacity="1"
@@ -26,27 +24,25 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.79372736"
-     inkscape:cx="383.00305"
-     inkscape:cy="469.30472"
+     inkscape:zoom="1.1313169"
+     inkscape:cx="266.94553"
+     inkscape:cy="255.89646"
      inkscape:window-width="1896"
      inkscape:window-height="1006"
      inkscape:window-x="10"
      inkscape:window-y="60"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg12" />
-  <rect
-     style="fill:#7f8487;fill-opacity:1;stroke-width:4.42688;stroke-linejoin:round"
-     id="rect959"
-     width="256"
-     height="256"
-     x="-16"
-     y="0"
-     ry="75.280975"
-     rx="81.232582" />
+  <defs
+     id="defs16" />
+  <path
+     style="fill:#aeb8d2;stroke-width:4.42688;stroke-linejoin:round;fill-opacity:1"
+     id="path344"
+     d="M 310.17499,207.76271 36.878713,370.1014 a 60.621778,60.621778 179.28958 0 1 -60.617118,0.75165 L -300.97598,215.34087 a 60.621778,60.621778 59.289579 0 1 -30.9595,-52.12014 l -3.94129,-317.85087 a 60.621778,60.621778 119.28958 0 1 29.65761,-52.87179 l 273.296286,-162.33869 a 60.621778,60.621778 179.28958 0 1 60.617118,-0.75165 l 277.237576,155.51218 a 60.621778,60.621778 59.289579 0 1 30.9595,52.12014 l 3.94129,317.85087 a 60.621778,60.621778 119.28958 0 1 -29.65762,52.87179 z"
+     transform="matrix(-0.33949861,-0.00440095,0.00434931,-0.33551522,98.743401,127.05488)" />
   <g
      id="g10"
-     transform="matrix(0.86314934,0,0,0.86314934,15.329061,17.516884)">
+     transform="matrix(0.86314934,0,0,0.86314934,1.4015317,16.519306)">
     <path
        d="M 207.9535,52.161792 127.31715,4.2869915 c -9.58397,-5.7159887 -21.5306,-5.7159887 -31.114579,0 L 15.550082,52.161792 C 5.848665,58.014362 -0.05794423,68.539535 4.2867948e-4,79.869434 V 175.60289 C -0.05224627,186.92704 5.8536257,197.44477 15.550082,203.29438 l 80.636342,47.85866 c 9.584946,5.71245 21.529636,5.71245 31.114586,0 l 80.63634,-47.85866 c 9.70761,-5.84857 15.62077,-16.37448 15.5658,-27.70764 V 79.869434 c 0.0584,-11.329899 -5.84824,-21.855072 -15.54965,-27.707642 z"
        fill="#ffffff"
