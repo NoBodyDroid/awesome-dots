@@ -26,3 +26,4 @@
 - **Cursor**               : Oreo Spark Lite Cursors
 - **Font**                 : Quicksand Medium
 - **Editor**               : Vim && VS Code
+- **Audio Visualizer**     : Glava
